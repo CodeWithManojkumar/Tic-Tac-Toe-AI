@@ -1,3 +1,3 @@
-It is an undefeatable AI Tic-Tac-Toe game.
-Wanna try??
-Best of Luck...
+It is an undefeatable AI Tic-Tac-Toe game.  
+Wanna try??  
+Best of Luck...  
